@@ -45,6 +45,11 @@
 <li>http://blog.csdn.net/xiaoquantouer/article/details/51841016</li>
 
 <br>
+# 2、win下的安装和使用步骤：    
+- step1 官网下载安装社区版mysql   
+- step2 从uci大学下载mysql-python.wheel安装 
+- 创建数据库和表 
+- 运行scrapy crawl jd
 ##有问题欢迎留言
 
 
